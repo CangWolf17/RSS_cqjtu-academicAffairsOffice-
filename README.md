@@ -1,0 +1,2 @@
+# RSS_cqjtu-academicAffairsOffice-
+基于rssEverything的重庆交通大学教务处RSS订阅源规则
